@@ -12,3 +12,4 @@ node_modules/
 
 # System files
 .DS_Store
+_gitignore.code-search
